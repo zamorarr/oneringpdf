@@ -1,0 +1,12 @@
+Package: oneringpdf
+Title: Generate PDF Character Sheets for One Ring RPG 2e
+Version: 0.0.1
+Authors@R: 
+    person("Robert", "Zamora", , "zamora.rr@gmail.com", role = c("aut", "cre"))
+Description: Generate PDF character sheets for One Ring RPG 2e.
+License: MIT + file LICENSE
+Imports: 
+    staplr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
