@@ -14,7 +14,7 @@ Ring RPG 2e
 You can install the development version of oneringpdf like so:
 
 ``` r
-remotes::install_github("zamorar/oneringpdf")
+remotes::install_github("zamorarr/oneringpdf")
 ```
 
 ## Example
