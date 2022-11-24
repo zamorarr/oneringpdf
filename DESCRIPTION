@@ -10,3 +10,5 @@ Imports:
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
+URL: https://github.com/zamorarr/oneringpdf
+BugReports: https://github.com/zamorarr/oneringpdf/issues
