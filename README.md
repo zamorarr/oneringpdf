@@ -4,10 +4,10 @@
 # oneringpdf
 
 <!-- badges: start -->
-<!-- badges: end -->
 
-The goal of **oneringpdf** is to generate PDF character sheets for One
-Ring RPG 2e
+[![check-release](https://github.com/zamorarr/oneringpdf/actions/workflows/check-release.yaml/badge.svg)](https://github.com/zamorarr/oneringpdf/actions/workflows/check-release.yaml)
+<!-- badges: end --> The goal of **oneringpdf** is to generate PDF
+character sheets for One Ring RPG 2e
 
 ## Installation
 
